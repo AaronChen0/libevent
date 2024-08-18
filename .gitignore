@@ -59,10 +59,8 @@ cscope*
 *.log
 *.pc
 .deps/
-config.h
 config.log
 config.status
-evconfig-private.h
 libtool
 Makefile
 stamp-h1
@@ -85,7 +83,6 @@ Doxyfile.doxygen
 *.la
 *.lo
 *.o
-event-config.h
 
 ## make generated files under /sample
 becat
